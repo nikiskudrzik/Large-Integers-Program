@@ -1,7 +1,7 @@
 # Large Integers Program
 
 ## Description
-This program uses a class called `largeIntegers` to store and work with very large numbers that have many digits. Since normal data types cannot store very large numbers, the program stores them as strings and performs math operations manually.
+This program uses a class called largeIntegers to store and work with very large numbers that have many digits. Since normal data types cannot store very large numbers, the program stores them as strings and performs math operations manually.
 
 The program can:
 - store large integers
